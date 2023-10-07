@@ -1,0 +1,19 @@
+{
+  "name": "jas",
+  "version": "1.0.0",
+  "description": "My first server app using node js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Vaibhav",
+  "license": "ISC",
+  
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "mongodb": "^6.1.0"
+  }
+}
